@@ -1,3 +1,4 @@
+[
 {
       "id": 1,
       "name": "Lorem",
@@ -33,4 +34,5 @@
       "name": "Eita",
       "livro": "POT",
       "preco": 23545
-},
+}
+]
